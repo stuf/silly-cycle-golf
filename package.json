@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "benchmark": "^2.1.4",
+    "jsverify": "^0.8.4",
     "ramda": "^0.26.1"
   }
 }
